@@ -1,0 +1,6 @@
+*.json
+*.jsonl
+*.csv
+
+# Nhưng giữ lại file sample
+!100_sampled_cleaned.csv
