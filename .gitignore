@@ -1,0 +1,55 @@
+# --- Python cache ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Virtual environments ---
+.env
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+*.egg-info/
+
+# --- Jupyter / VSCode ---
+*.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# --- Logs / Outputs ---
+logs/
+*.log
+*.txt
+*.out
+*.err
+
+# --- Data & models ---
+data/
+datasets/
+Data/
+*.csv
+*.json
+*.jsonl
+*.xlsx
+*.zip
+*.tar
+*.pt
+*.pth
+*.h5
+*.pkl
+
+# --- Kaggle / Colab cache ---
+.kaggle/
+.kaggle/working/
+.kaggle/temp/
+kaggle.json
+
+# --- Private keys / configs ---
+.env
+*.key
+*.pem
+*.crt
+
+# --- OS junk ---
+.DS_Store
+Thumbs.db
